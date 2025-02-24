@@ -1,0 +1,8 @@
+Please Modify this file to practice git. 
+
+Here are some commands: 
+
+
+git init                        # Initialize a new repository
+git clone https://github.com/JenGBNegron/PracticeRepo.git          # Clone an existing repository
+git status    
